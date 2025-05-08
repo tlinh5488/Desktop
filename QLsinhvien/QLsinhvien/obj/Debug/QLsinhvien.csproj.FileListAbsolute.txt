@@ -1,0 +1,12 @@
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\bin\Debug\QLsinhvien.exe.config
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\bin\Debug\QLsinhvien.exe
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\bin\Debug\QLsinhvien.pdb
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLsinhvien.csproj.AssemblyReference.cache
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLsinhvien.Form1.resources
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLsinhvien.Properties.Resources.resources
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLsinhvien.csproj.GenerateResource.cache
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLsinhvien.csproj.CoreCompileInputs.cache
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLsinhvien.exe
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLsinhvien.pdb
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLsinhvien.Form2.resources
+D:\DESKTOP\WINDOWS FORM\QLsinhvien\QLsinhvien\obj\Debug\QLSinhVien.Form3.resources
