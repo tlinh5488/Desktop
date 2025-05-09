@@ -1,0 +1,12 @@
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\bin\Debug\QLcanbo.exe.config
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\bin\Debug\QLcanbo.exe
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\bin\Debug\QLcanbo.pdb
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.csproj.AssemblyReference.cache
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.Form1.resources
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.Properties.Resources.resources
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.csproj.GenerateResource.cache
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.csproj.CoreCompileInputs.cache
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.exe
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.pdb
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.Form2.resources
+D:\DESKTOP\WINDOWS FORM\QLcanbo\QLcanbo\QLcanbo\obj\Debug\QLcanbo.Form3.resources
