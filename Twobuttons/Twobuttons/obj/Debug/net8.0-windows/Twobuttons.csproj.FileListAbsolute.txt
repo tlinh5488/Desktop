@@ -1,0 +1,28 @@
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.exe
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.deps.json
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.runtimeconfig.json
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.dll
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.pdb
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.AssemblyInfoInputs.cache
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.AssemblyInfo.cs
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.csproj.CoreCompileInputs.cache
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.dll
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\refint\Twobuttons.dll
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.pdb
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.genruntimeconfig.cache
+D:\DESKTOP\WINDOWS FORM\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\ref\Twobuttons.dll
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.exe
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.deps.json
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.runtimeconfig.json
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.dll
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\bin\Debug\net8.0-windows\Twobuttons.pdb
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.AssemblyInfoInputs.cache
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.AssemblyInfo.cs
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.csproj.CoreCompileInputs.cache
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.dll
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\refint\Twobuttons.dll
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.pdb
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\Twobuttons.genruntimeconfig.cache
+D:\DESKTOP\WPF\Twobuttons\Twobuttons\obj\Debug\net8.0-windows\ref\Twobuttons.dll
