@@ -1,0 +1,66 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="Calculator.MainWindow"
+        Title="Calculator"
+        SizeToContent="WidthAndHeight" Height="322" Width="257">
+    <StackPanel Background="#FF87DDCA">
+
+        <!-- Operand 1 -->
+        <StackPanel Orientation="Horizontal" Height="59">
+            <Label Margin="10" Target="{Binding ElementName=txtOp1}" Content="Số thứ 1:" Height="29" FontFamily="Times New Roman" FontSize="13"/>
+            <TextBox Margin="10" Width="134" x:Name="txtOp1" Height="34" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Operand 2 -->
+        <StackPanel Orientation="Horizontal" Height="61">
+            <Label Margin="10" Target="{Binding ElementName=txtOp2}" Content="Số thứ 2:" FontFamily="Times New Roman" FontSize="13" Height="29"/>
+            <TextBox Margin="10" Width="135" x:Name="txtOp2" Height="34" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Height="50" Orientation="Horizontal">
+            <Button Margin="10" Width="105" x:Name="btnAdd" Click="btnAdd_Click" Content="_Add" Background="#FFD7F9F1" RenderTransformOrigin="0.5,0.5" Height="30" FontFamily="Times New Roman">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0.5" Y="0.5"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+            <Button Width="109" x:Name="btnSubtract" Click="btnSubtract_Click" Content="_Subtract" Background="#FFD4FCF3" Height="29" RenderTransformOrigin="0.63,0.498" FontFamily="Times New Roman">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0.5" Y="1"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+        </StackPanel>
+
+        <!-- Answer -->
+        <StackPanel Orientation="Horizontal" Height="49">
+            <Label Margin="10" Content="Answer:" FontFamily="Times New Roman"/>
+            <TextBox Margin="10" Width="152" x:Name="txtAns" IsReadOnly="True" Height="27"/>
+        </StackPanel>
+        <CheckBox x:Name="chkCenter"
+                  Content=" Center Numeric Values"
+                  Checked="chkCenter_Checked"
+                  Unchecked="chkCenter_Checked" Height="58" HorizontalContentAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility="Auto" VerticalContentAlignment="Center" RenderTransformOrigin="0.5,0.5" Margin="15,0,0,0" FontFamily="Times New Roman" Width="238">
+            <CheckBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.5"/>
+                </TransformGroup>
+            </CheckBox.RenderTransform>
+        </CheckBox>
+
+        <!-- Centering CheckBox -->
+    </StackPanel>
+</Window>

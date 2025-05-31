@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ch14Ex01-grid/1.0.0": {
+        "runtime": {
+          "Ch14Ex01-grid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch14Ex01-grid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
