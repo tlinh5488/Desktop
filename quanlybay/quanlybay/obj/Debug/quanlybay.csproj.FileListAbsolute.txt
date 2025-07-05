@@ -1,0 +1,15 @@
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\bin\Debug\quanlybay.exe.config
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\bin\Debug\quanlybay.exe
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\bin\Debug\quanlybay.pdb
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.csproj.AssemblyReference.cache
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.Form1.resources
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.Form2.resources
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.FormAdmin.resources
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.FormKhach.resources
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.FormNV.resources
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.formNV2.resources
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.Properties.Resources.resources
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.csproj.GenerateResource.cache
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.csproj.CoreCompileInputs.cache
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.exe
+D:\DESKTOP\WINDOWS FORM\QLbay\quanlybay\quanlybay\obj\Debug\quanlybay.pdb
