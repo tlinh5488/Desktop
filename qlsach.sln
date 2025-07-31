@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qlsach", "qlsach\qlsach.csproj", "{20AC017F-AC9F-47D9-BD01-F4B52193534C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AC017F-AC9F-47D9-BD01-F4B52193534C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AC017F-AC9F-47D9-BD01-F4B52193534C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AC017F-AC9F-47D9-BD01-F4B52193534C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AC017F-AC9F-47D9-BD01-F4B52193534C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C912E3-9AE6-4472-B0FD-A4AFC8FCF935}
+	EndGlobalSection
+EndGlobal
