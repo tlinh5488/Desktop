@@ -1,0 +1,12 @@
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\bin\Debug\qlsach.exe.config
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\bin\Debug\qlsach.exe
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\bin\Debug\qlsach.pdb
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.csproj.AssemblyReference.cache
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.Form1.resources
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.Form2.resources
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.Form3.resources
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.Properties.Resources.resources
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.csproj.GenerateResource.cache
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.csproj.CoreCompileInputs.cache
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.exe
+D:\DESKTOP\WINDOWS FORM\qlthuvien\qlsach\qlsach\obj\Debug\qlsach.pdb
