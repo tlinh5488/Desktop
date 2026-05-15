@@ -1,0 +1,11 @@
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\obj\Debug\QLquanan.csproj.AssemblyReference.cache
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\obj\Debug\QLquanan.Form1.resources
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\obj\Debug\QLquanan.Form2.resources
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\obj\Debug\QLquanan.Properties.Resources.resources
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\obj\Debug\QLquanan.csproj.GenerateResource.cache
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\obj\Debug\QLquanan.csproj.CoreCompileInputs.cache
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\bin\Debug\QLquanan.exe.config
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\bin\Debug\QLquanan.exe
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\bin\Debug\QLquanan.pdb
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\obj\Debug\QLquanan.exe
+D:\DESKTOP\WINDOWS FORM\QLquanan\QLquanan\QLquanan\obj\Debug\QLquanan.pdb
